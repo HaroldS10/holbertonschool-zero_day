@@ -1,4 +1,5 @@
 git add
 git commit
 git brunch
-git checkout 
+git checkout
+git pull
